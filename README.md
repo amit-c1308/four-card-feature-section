@@ -8,21 +8,18 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 My solution for Frontend Mentor challenge - Four card feature section
 
-Live: https://pattykovash.github.io/frontendmentor_challenge_four-card-feature-section/
+Live: https://github.com/amit-c1308/four-card-feature-section/
 
 Weapons of Choice:
 
 - HTML5
 - CSS3 (no frameworks, Flexbox Layout, mobile first)
-- Adobe Photoshop
 - Chrome Extension: Page Ruler Redux
 
 Notes:
 
-- Added a link to a page displaying the static design JPG
 - Added some animations for fun
 - It was more difficult to get pixel measurements of the page after a width of 500px. The ruler extension does not work when in Chrome's dev responsive mode.
-- Kept the background the same color for smaller screen sizes instead of white like the design.
 
 ## The challenge
 
